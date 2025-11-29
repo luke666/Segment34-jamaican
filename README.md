@@ -1,4 +1,4 @@
-A jamaican colors style for Segment34 MkII Garmin watch face.
+Various color styles for Segment34 MkII Garmin watch face.
 
 Watchface on GitHub: https://github.com/ludw/Segment34mkII
 
