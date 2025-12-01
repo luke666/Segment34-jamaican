@@ -6,4 +6,4 @@ Garmin Connect IQ Store link: https://apps.garmin.com/en-GB/apps/aa85d03d-ab89-4
 
 Theme designer: https://ludw.github.io/designer/
 
-![Screenshot: ](https://github.com/luke666/Segment34-jamaican/blob/main/jm.png)
+![Screenshot: ](https://github.com/luke666/Segment34-jamaican/blob/main/jamaican.png)
