@@ -1,1 +1,1 @@
-#7A263A #F3D459 #5a2632 #f3d459 #ffffff #5a2632 #1bb1e7 #F3D459 #9a784d #ffffff #010101 #F3D459 #e3efd2
+#7c2c3b #f8d742 #0e2e39 #7bcce6 #ffffff #0e2e39 #7bcce6 #ffffff #7c2c3b #f8d742 #0e2e39 #f8d742 #FFFFFF
